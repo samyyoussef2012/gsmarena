@@ -1,0 +1,11 @@
+G:\gsmClone\backend\src\MobileHub.Domain\bin\Debug\net10.0\MobileHub.Domain.deps.json
+G:\gsmClone\backend\src\MobileHub.Domain\bin\Debug\net10.0\MobileHub.Domain.dll
+G:\gsmClone\backend\src\MobileHub.Domain\bin\Debug\net10.0\MobileHub.Domain.pdb
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.AssemblyInfoInputs.cache
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.AssemblyInfo.cs
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.csproj.CoreCompileInputs.cache
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.dll
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\refint\MobileHub.Domain.dll
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\MobileHub.Domain.pdb
+G:\gsmClone\backend\src\MobileHub.Domain\obj\Debug\net10.0\ref\MobileHub.Domain.dll

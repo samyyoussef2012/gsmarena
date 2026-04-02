@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MobileHub.Domain/1.0.0": {
+        "runtime": {
+          "MobileHub.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobileHub.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

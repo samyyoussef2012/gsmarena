@@ -1,0 +1,15 @@
+G:\gsmClone\backend\src\MobileHub.Application\bin\Debug\net10.0\MobileHub.Application.deps.json
+G:\gsmClone\backend\src\MobileHub.Application\bin\Debug\net10.0\MobileHub.Application.dll
+G:\gsmClone\backend\src\MobileHub.Application\bin\Debug\net10.0\MobileHub.Application.pdb
+G:\gsmClone\backend\src\MobileHub.Application\bin\Debug\net10.0\MobileHub.Domain.dll
+G:\gsmClone\backend\src\MobileHub.Application\bin\Debug\net10.0\MobileHub.Domain.pdb
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHub.Application.csproj.AssemblyReference.cache
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHub.Application.AssemblyInfoInputs.cache
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHub.Application.AssemblyInfo.cs
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHub.Application.csproj.CoreCompileInputs.cache
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHu.44032CD7.Up2Date
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHub.Application.dll
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\refint\MobileHub.Application.dll
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\MobileHub.Application.pdb
+G:\gsmClone\backend\src\MobileHub.Application\obj\Debug\net10.0\ref\MobileHub.Application.dll
