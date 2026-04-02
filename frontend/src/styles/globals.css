@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #d21f29; /* GSMArena signature red */
+  --color-brand-light: #fbe5e6;
+  --color-link: #0056b3;
+  --color-link-hover: #d21f29;
+  --color-bg-base: #ffffff;
+  --color-bg-card: #f9f9f9;
+  --color-border: #e5e5e5;
+  --color-border-dark: #cccccc;
+  --color-text-main: #333333;
+  --color-text-dim: #777777;
+}
+
+:root {
+  --font-inter: "Arial", sans-serif;
+  --font-outfit: "Arial", sans-serif;
+}
+
+body {
+  background-color: var(--color-bg-base);
+  color: var(--color-text-main);
+  font-family: var(--font-inter);
+  font-size: 14px;
+}
+
+/* GSMArena Classic Table Styles */
+table.gsm-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table.gsm-table th, table.gsm-table td {
+  border: 1px solid var(--color-border);
+  padding: 8px;
+  vertical-align: top;
+}
+
+table.gsm-table th {
+  background-color: #fafafa;
+  color: #d21f29;
+  text-transform: uppercase;
+  font-size: 11px;
+  width: 120px;
+  text-align: right;
+  padding-right: 15px;
+}
+
+table.gsm-table td:first-of-type {
+  width: 150px;
+  font-weight: bold;
+  color: #555;
+}
+
+table.gsm-table td {
+  color: #333;
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--color-link-hover);
+}
+
+.layout-grid {
+  display: grid;
+  grid-template-columns: 160px 1fr 300px;
+  gap: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
